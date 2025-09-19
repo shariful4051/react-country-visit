@@ -3,3 +3,13 @@
     grid-template-columns: repeat(3,1fr);
     gap: 10px;
 }
+.visited-flag-image{
+    width: 120px;
+    height: 70px;
+    margin-right: 10px;
+    
+}
+.visited-country-flag{
+    display: grid;
+    grid-template-columns: repeat(10,1fr);
+}
